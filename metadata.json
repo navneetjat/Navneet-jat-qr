@@ -1,0 +1,5 @@
+{
+  "name": "UPI QR Gateway",
+  "description": "A simple and secure UPI QR code generator for instant payments.",
+  "requestFramePermissions": ["camera", "storage"]
+}
